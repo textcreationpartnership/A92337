@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The refusers of peace unexcusable: in answer to a libell against His maiesties late messages for peace.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92337</idno><idno type="EEBO-CITATION">99861233</idno>
+  <idno type="VID">158951</idno>
+  <idno type="EEBO-PROQUEST">2240870868</idno>
+  
+            <idno type="STC">Wing R750</idno>
+            <idno type="STC">Thomason E314_27</idno>
+            <idno type="STC">ESTC R200509</idno>
+            <idno type="PROQUEST">99861233</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861233e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92337)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158951)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 51:E314[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The refusers of peace unexcusable: in answer to a libell against His maiesties late messages for peace.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield, printer to the Vniversity.,</publisher>
+                  <pubPlace>Oxford, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"An answer to a catechism propounded in the Mercurius Britannicus during December, 1645, .. On a copy in the Bodleian is written in a contemporary hand 'Printed att Oxon. December 29. 1645. by the Kings Commaund in Answer to a Mercurius Britannicus'"--Madan.</note>
+                  <note>Annotation on Thomason copy: "Jan: 7th [1646]".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158951:1"/>
+            <p>THE REFVSERS OF PEACE UNEXCUSABLE.</p>
+            <p>IN ANSWER TO A LIBELL AGAINST HIS MAIESTIES LATE MESSAGES FOR PEACE.</p>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>Leonard Lichfield,</hi> Printer to <hi>the Vniversity.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:158951:2"/>
+            <pb n="1" facs="tcp:158951:2"/>
+            <head>THE REFUSERS OF PEACE VNEXCVSABLE.</head>
+            <head type="sub">In Answer to a Libell against His MAjESTIES late Messages for PEACE.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I read His Majesties late gratious Messages for a safe Conduct, for some few Persons of Ho<g ref="char:EOLhyphen"/>nour and integrity, to goe up to <hi>London</hi> with Pro<g ref="char:EOLhyphen"/>positions for the Peace of this Kingdome, Me<g ref="char:EOLhyphen"/>thought in this Conjuncture of time, nothing could be more seasonable; for it seemed to me a point of time, that had freed all those Persons of Jealousies and Feares, who at first, as well had them as pretended them. Nor could I doubt that they that had so often sworn Allegiance to, and profest so long they endeavoured nothing, but a good under<g ref="char:EOLhyphen"/>standing with their Soveraigne, should now decline it, when they were thus fairely offered so hopefull a meanes to attaine it. But th ugh I understand of Answers to those Messages, which fall farre short of my beliefe as well as hope; yet I will give no censure up<g ref="char:EOLhyphen"/>on them, because I see, they are still in agitation betwixt His Ma<g ref="char:EOLhyphen"/>jesty and the two Houses: And that His Majesty by later Messages (wherein he offers (being secured) to goe up to <hi>London,</hi> and Treat with His English and Scotch Subjects there, and to secure all
+<pb n="2" facs="tcp:158951:3"/>men by granting, an equall <hi>Militia,</hi> to give satisfaction concerning the businesse of <hi>Ireland,</hi> to have consideration of the Publique debts to the Scots, Citty of <hi>London,</hi> and others,) Outdoes all exam<g ref="char:EOLhyphen"/>ple, that he might divert the present felt, and threatning miseries of this Kingdome. So as I had been silent, had nor some Scandalous Pamphlets made it their ayme to deface those Actions, which so lively expresse His Majesties tender and Fatherly care of His King<g ref="char:EOLhyphen"/>domes, nay, to defame His Person by it.</p>
+            <p>Did I think that this venome came only from the heart and pu<g ref="char:EOLhyphen"/>trified entralls of him that belches it out, I should neglect it, but looking upon him only as the pitts mouth, that breaths out the in<g ref="char:EOLhyphen"/>fectious and killing ayre, which the deadly minerall of the soyle evaporates; I cannot but warne all persons that are given over to believe a lye, to draw farre off from this contagion. When he saies so disloyally, as well as unmannerly <hi>C. R. is come to Towne againe.</hi> He knowes what it is to bring a Kings Person or Writing in con<g ref="char:EOLhyphen"/>tempt: if he can but gaine you to make slight of so sober a Subject, he hath half wonne you to swallow downe all his inconsequent and fallatious arguments. Next to this (O shame that in a Christi<g ref="char:EOLhyphen"/>an Common-wealth it should be permitted) He can tell you, <hi>There is talke of Conscience, and Bloodshed, and dreadfull day of Judgement, and Peace at Oxford,</hi> (which he saies,) <hi>is not so much there as dreamt on:</hi> Nay at first he seems to have the modesty to decline the application thereof personally to the King, for he expresses it, <hi>They at Oxford never dreame of these things,</hi> and yet (without playing the Pharisee, as to bragge) from my Consciences I averre it; most there, are of those, that are both faithfull and peaceable in the Land, and if Martyrdome be to be their Crowne, for it will not decline it; yet presently with one breath he is at this.</p>
+            <p>Doe you think C. R. dreamt of a day of Judgement, when the mercifull Commission past the Seale for Ireland?</p>
+            <p>Yes, He did: for you know, the meanes of maintaining that Warre being diverted for the raising this; in how desperate and deplorable condition, His Protestant Subjects were there; And how this was represented to him, by all the Persons intrusted with that government, (and such as had no tincture of complying with the Rebells) before He made any Cessation.</p>
+            <pb n="3" facs="tcp:158951:3"/>
+            <p>Doe you think he dreamt of a day of Judgement, when the deep Protestations were sent abroad from Yorke?</p>
+            <p>Yes, He did: And for that you know, he sent you the hands of some Lords now among you, who with the rest endeavoured to assure you the same, and are grown as bad as your selfe, if they will not declare in their Conscience they believed it.</p>
+            <p>Doe you think &amp;c. When the Standard first flourisht at Nottingham?</p>
+            <p>Yes, He did: Can you remember that time, and not what e<g ref="char:EOLhyphen"/>quall and Peaceable Propositions you then rejected, which if then accepted, had saved all this blood-shed. Was not the Standard then effered to be taken downe, and Proclamations that gave some their due appellations of Traitors, to be called in, if you would have done the like, and the King upon this to returne to you?</p>
+            <p>Doe you think &amp;c, When the Mock-Treaty was so hotly pursued at Ʋxbridge?</p>
+            <p>Yes, sure He did. For did not His Majesty give an unlimited and concluding power to his Commissioners, whilest yours confest they had none? Did He not make great condescentions and offers, whilest you met Him in nothing? Did He not desire to prolong the Treaty, whilest you made as much hast to break it off? Did He not publish His proceedings therein to all the World, in so plain a way, being all matter of Fact, that when the avenger of blood shall make Inquisition, it will be found you have been guilty of all that hath been spilt? And did not this convince you? yes, sure it did, for you never answered the same, though now almost twelve months since it was written.</p>
+            <p>I have in all these particulars given you not above one instance, because in severall Tracts with many serious Arguments, His Ma<g ref="char:EOLhyphen"/>jesties Actions have been manifested and justified agai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st all Oppo<g ref="char:EOLhyphen"/>sers, for me thinkes a little paines may discover the falsities of your arguments: For truly I would not slight them, not mistake them willingly; But in earnest, I doe, if this be not the whole reasoning (I'le not say rayling) that is in them.</p>
+            <p>
+               <hi>The King would never condescend wholly to all the two Houses offored him,</hi> (I will not now question the nature of the Proposi<g ref="char:EOLhyphen"/>tions, whether good or bad) <hi>Therefore He never intended a Peace.</hi>
+            </p>
+            <pb n="4" facs="tcp:158951:4"/>
+            <p>Now take the Reverse, and turne this Argument as it is true in Fact.</p>
+            <p>The King and the two Houses differed upon divers new (re<g ref="char:EOLhyphen"/>member that) things, which tended to the alteration of the present Government; And to compose this, the King was ever willing to a Treaty, The Houses but sometimes; The King would ever have prolonged the time of Treating, The Houses not; The King made many considerable Condescentions and Complyings, The Houses none: Let any man make the Conclusion, which of these two most truly sought the Peace of the Kingdome.</p>
+            <p>To all this adde, The King never desired a new thing, The Houses scarce any thing that was not an Innovation in the State; The King never denyed any part of Old <hi>Magna Charta,</hi> (indeed it was become as much His Security as the Subjects) The two Houses, without they might have a Power over King, Lawes, and People, would not be content: The King, though He had granted more then all His Predecessors, desired not to retract any one Law, but to confirme all; whil'st the Houses with an hydropicall hu<g ref="char:EOLhyphen"/>mour, aske more, because they had obtained much: The King never unwilling to Treat with them upon any of their demands, Nay, willing to condescend to any thing more then He had alrea<g ref="char:EOLhyphen"/>dy granted, if in Reason and Conscience He could; (For doe but remember how He extended His former Graces, by His new Offers to your Nineteen Propositions) And the Houses would not be content, unlesse He unmanned Himselfe, to agree to that which in reason He could not; He un-Christianned Himselfe, to act that, which in Conscience He could not; unlesse He dethroned Him<g ref="char:EOLhyphen"/>selfe, and wholly to transferre that Power to others, which God had placed in Himselfe: And because they were made for His Helpers, therefore they must be admitted to be Sole Rulers, or make a Warre.</p>
+            <p>You talke of a Tribunall, but thinke now, how dreadfull that place will be to you, and all your Disciples, that thus Slander, or give credit to the Slanders, cast upon the Lords Annointed.</p>
+            <p>I have done with this Railer, The Lord convert, or rebuke him, and turne his Counsell into folly, for I look upon his Spirit (let it dwell in him, or in others, and he only the Pipe to convey it) like
+<pb n="5" facs="tcp:158951:4"/>that of <hi>Achitophels;</hi> The whole designe being to make the breach so great, <hi>Absalom</hi> and <hi>David,</hi> the King and his People, may never meet. But God that defeated that Counsell, will. I doubt not, this, and so prosper his faithfull, though afflicted Servant, the King, That the King shall returne, nay that <hi>Israel,</hi> shall be angry they fetcht him not in first.</p>
+            <p>I have spun this Discourse longer then I intended; but however before I conclude, I desire all Persons, that have power to contri<g ref="char:EOLhyphen"/>bute to a good Intelligence betwixt the King and His People, would consider, whether there be not likely to be such a disunion in Opinion in your new intended Forme of Government, both in Church and State, as if the present were destroyed, would not create a new Warre: Whether, if it can be so tempered at pre<g ref="char:EOLhyphen"/>sent, that <hi>Lot</hi> and <hi>Abraham</hi> may set forth in journing together, for the diversity and multitude of opinions, their Heards-men are not soon like to be quarrelling: Whether, if <hi>Ireland</hi> should be forced to give it selfe over to a Forraigner, the youth and wealth of this Kingdome may not too likely be buried there: Nay, whether thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their subjection to a Forraigner, may not introduce a Forraigne Warre into this Kingdome, which is so farre spent already by a Civill: Whether all these differences are not likelier to be com<g ref="char:EOLhyphen"/>posed by an obedience to the King, according to the ancient Lawes of the Land, in whose Authority all differing interests doe concern<g ref="char:EOLhyphen"/>ter, then in any new forme or usurpation: Consider whether <hi>Zimri</hi> had Peace, that slew his Master; whether to destroy our Head, be our way to make our Body thrive. At least, I warne all disinteressed Persons, not to suck in this poysenous Doctrine, That Successe is the Seale, God markes His with, when Christs distin<g ref="char:EOLhyphen"/>ction of his Flock is Affliction; For thus we may preferre <hi>Maho<g ref="char:EOLhyphen"/>met</hi> before Christ, since the Turke thrives even at present against the Christians. I professe I desire my Portion rather out of the Cup of Persecution, then the intoxicating liquor of a fortunate Re<g ref="char:EOLhyphen"/>bellion, which is only so termed, because the men of the present Age, seeme to have the Lordship over their Opposers, and the fat of the spoyle: But how fatall such Successes were to Gods, and hath been to all People in their Posterity, all Histories both holy and prophane doe testifie. Nor doe you know any people, that
+<pb n="6" facs="tcp:158951:5"/>were driven to practise it, and who took it up for their remedy, that are not enforced to a constant Warre; And to pay yearly twenty times more out of their annuall Revenue, then ever you paid to a King of <hi>England.</hi> Call to mind this Kingdomes burthens this last five yeares. Well, whatever is the Intention of the best Patriots, it is not in the wisedome of any of them to foresee the sad disorders of such an absolute change they endeavour. Consi<g ref="char:EOLhyphen"/>der, whether it be possible to admit such a Change, and that there is not an equall necessity to have all secured by constant Garrisons and Squadrons of Horse in every County, to rule (as I may say) a new Conquered People, for so are you, when old Lawes are chan<g ref="char:EOLhyphen"/>ged by Force; And whether five yeares since, though some then murmured, the Christian world accounted you not a free, rich, and happy People; And whether, upon the Government by the pre<g ref="char:EOLhyphen"/>sent Lawes of this Kingdome, you were not so, successively 500. yeares together, some usuall intertuptions admitted. It is not like<g ref="char:EOLhyphen"/>ly, but the feare of the Invasion of a Stranger, or imbred differen<g ref="char:EOLhyphen"/>ces, will keep you in a constant servitude to your new <hi>Militia</hi> &amp; Rulers. No remedy against any part of this, but Reunion with our Head the King, so may every man returne to his owne Vine<g ref="char:EOLhyphen"/>yard; And without this, so uncertaine will your Peace be, That he will be least likely to reap the Fruit who Sowes the Seed. God therefore give a blessing, to what His Majesty hath so gratiously proposed: And let the mouth of all Slanderers and detracters be stopt, That we may no longer shed the bloud of Warre in the time of Peace.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
